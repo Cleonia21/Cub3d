@@ -2,7 +2,7 @@
 
 ## PRESENTATION
 
-The goal of ``cub3d`` is to make *something* using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
+First-person 3D representation of a maze using raycasting, similar to [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D) (1992).
 
 ## WANNA PLAY? 💥
 ### Installation
